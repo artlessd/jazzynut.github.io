@@ -1,12 +1,12 @@
 ---
 permalink: /
 layout: home
-title:  Artless Development
+title:  About AD
 ---
 
 ## Key traits of Artless Development
 
-Artless Development (AD) is:
+Artless Development is:
 
 - Loosely constrained: AD is vision and practice, but neither a theory nor a framework.
 - Familiar: ideas behind AD are neither novel nor unique, but known and even actively applied in software engineering for a long time, some for decades.
